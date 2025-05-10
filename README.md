@@ -4,7 +4,7 @@
 
 ## Status: Developing
 
-
+````
 📦Java-Application
   ┣ 📂docker-local
  ┃ ┗ 📜docker-compose.yml
@@ -54,3 +54,4 @@
  ┣ 📜mvnw.cmd
  ┣ 📜pom.xml
  ┗ 📜README.md
+````
