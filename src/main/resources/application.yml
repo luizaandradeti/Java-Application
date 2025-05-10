@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+andrade:
+  client:
+    address:
+      url: http://localhost:8083/address
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      authentication-database: admin
+      username: root
+      password: example_passwd
+      database: example_db
