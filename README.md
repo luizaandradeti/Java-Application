@@ -1,8 +1,10 @@
 # Java Application:
 
-## Engineering focused on the following structural concepts: Core Isolation, Safety, Reusability, Separation of Concerns – SoC - Study
+Engineering focused on the following structural concepts: Core Isolation, Safety, Reusability, Separation of Concerns – SoC.
 
 ## Status: Developing
+
+[![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
 ````
 📦Java-Application
