@@ -8,7 +8,7 @@ Engineering focused on the following structural concepts: Core Isolation, Safety
 
 ````
 📦Java-Application
-  ┣ 📂docker-local
+ ┣ 📂docker-local
  ┃ ┗ 📜docker-compose.yml
  ┣ 📂src
  ┃ ┣ 📂main
